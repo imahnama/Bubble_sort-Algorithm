@@ -25,7 +25,7 @@ This is a manually built bubble sort algorithm that compares consecutive items i
 - Linkedin: [PhylisChepchumba](https://linkedin.com/PhylisChepchumba)
 
 ## 🤝 Contributing
-- Start by:
+#### Start by:
 
 - Fork/Clone the project to your local machine
 - cd into the project directory
@@ -34,9 +34,7 @@ This is a manually built bubble sort algorithm that compares consecutive items i
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-- Please feel free to contribute to any of these!
-
--Feel free to also check the [issues/](https://github.com/imahnama/Bubble_sort-Algorithm/issues).
+#### Feel free to also check the [issues](https://github.com/imahnama/Bubble_sort-Algorithm/issues) page.
 
 ## Show your support
 Give a ⭐️ if you like this project!!
